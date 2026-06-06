@@ -6,8 +6,7 @@ to users based on their preferences, behavior, and course attributes. Built usin
 **5 machine learning algorithms** on a dataset of **100,000+ records** with **14 features**,
 finalized with a **Hybrid Model** combining Content-Based and Collaborative Filtering.
 
-> 🚀 **Live Demo:** [recommednation-system-tpsknk3juvsm6apdkaknox.streamlit.app](https://recommednation-system-tpsknk3juvsm6apdkaknox.streamlit.app/)
-
+> 🚀 **Link to view:** https://online-course-recommendation-system-mxsnq9dflmhhcgpwvhnrfh.streamlit.app/
 ---
 
 ## Dataset
